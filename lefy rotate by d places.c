@@ -21,6 +21,9 @@ void rotate (int arr[],int n ,int d)
         printf("%d ", arr[i]);
     }
     printf("\n");
+
+
+     //error too many functions in reverse//
     }
 
 
